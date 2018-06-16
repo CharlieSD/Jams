@@ -12,6 +12,21 @@ Principalmente el diseño de los planos proporcionado por El gerente Gonzalo Mal
 
 Se usa Autocad [.dmg] para la modificación de los planos y PDF [.pdf] para la visualización de los planos.
 
+### Layer
+
+Dentro del archivo .dmg se encuentran los layer:
+
+- Plano inicial
+- Ubicación de SITE
+- Nodos de Red
+- Nodos de Teléfono
+- Nodos de Access Point
+- Tendido de cableado
+- Ubicación de cámaras
+- Cableado de cámaras
+
+Cada uno con los indicadores de distancia y cantidad de cables que se necesitan.
+
 
 ## Estructura de contenido
 
